@@ -51,6 +51,12 @@ NETWORKMOD和MEDIAMOD说明
 #define MEDIA_AVCHAT 2				//rtp 语音视频对讲
 ```
 
+## 开发板购买链接
+
+http://easy-iot.taobao.com
+
+https://item.taobao.com/item.htm?spm=a1z10.1-c-s.w4004-18627834525.6.3389d1e8ij0BCE&id=577585199607
+
 ## 技术支持
 
 QQ:83114367
