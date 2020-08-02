@@ -14,7 +14,6 @@ autorun 文件夹内的 以 autorun_ 开头的文件 将被设置为开机自启
 
 此时使用vlc工具输入 rtsp://192.168.10.1/live 即可实时观看到摄像头数据
 
-![image-20200802182904446](README.assets\image-20200802182904446.png)
 
 ## iotcamcfg.ini 配置文件配置说明
 

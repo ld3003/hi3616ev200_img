@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<Partition_Info>
+<Part Sel="1" PartitionName="fastboot" FlashType="spi" FileSystem="none" Start="0" Length="1M" SelectFile="C:\DDDDDDDD\hisi\u-boot.bin"/>
+<Part Sel="1" PartitionName="1" FlashType="spi" FileSystem="none" Start="1M" Length="4M" SelectFile="C:\DDDDDDDD\hisi\uImage"/>
+<Part Sel="1" PartitionName="2" FlashType="spi" FileSystem="none" Start="5M" Length="11M" SelectFile="C:\DDDDDDDD\hisi\rootfs_uclibc_64k_common.jffs2"/>
+</Partition_Info>
